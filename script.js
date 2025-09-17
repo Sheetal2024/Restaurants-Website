@@ -207,7 +207,7 @@ if (localStorage.getItem('darkMode') === 'true') {
                 name: 'Pilao', 
                 description: ' Aromatic and flavorful rice cooked with a mix of vegetables, spices, and herbs', 
                 price: 'Rs.100',
-                image: 'images/peas-pulao.jpg',
+                image: 'images/Peas-Pulao.jpg',
                 spiceLevel: 2
             },
             { 
