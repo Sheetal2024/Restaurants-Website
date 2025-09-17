@@ -121,7 +121,7 @@ if (localStorage.getItem('darkMode') === 'true') {
                 name: 'Khasta Kachori', 
                 description: ' Flaky, crunchy pastry pockets filled with a savory mix of spiced peas, onions, and herbs', 
                 price: 'Rs. 150',
-                image: 'images/khasta_Khachori.jpg',
+                image: 'images/khasta_khachori.jpg',
                 spiceLevel: 1
             },
             { 
