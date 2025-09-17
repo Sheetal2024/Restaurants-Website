@@ -86,7 +86,7 @@ if (localStorage.getItem('darkMode') === 'true') {
                 name: 'Paneer Tikka', 
                 description: 'Grilled cottage cheese cubes with mint chutney', 
                 price: 'Rs. 150',
-                image: 'images/paneer-Tikka.jpg',
+                image: 'images/Paneer-Tikka.jpg',
                 spiceLevel: 2
             },
             { 
